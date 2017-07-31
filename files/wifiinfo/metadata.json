@@ -1,0 +1,14 @@
+{
+    "website": "https://github.com/IndigoJay/wifiinfo",
+    "description": "Cinnamon Spice Applet showing wifi information linux",
+    "cinnamon-version": [
+        "3.4"
+    ],
+    "max-instances": "-1",
+    "comments": "Bug reports, feature requests and contributions should be done on this xlet's repository linked below.",
+    "contributors": [
+    ],
+    "name": "Wifi Info",
+    "version": "0.01",
+    "uuid": "IndigoJay@wifiinfo"
+}
